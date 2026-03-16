@@ -7,7 +7,7 @@
 > Source: [github.com/jboero](https://github.com/jboero)
 
 A **Vault / OpenBao auth method plugin** that authenticates virtual machines
-by verifying their identity through a [VIMS](../vims/) (VM Identity Metadata
+by verifying their identity through a [VIMS](https://www.github.com/jboero/vims/) (VM Identity Metadata
 Service) instance.
 
 Built against the [OpenBao SDK v2](https://pkg.go.dev/github.com/openbao/openbao/sdk/v2),
